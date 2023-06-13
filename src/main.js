@@ -1,6 +1,6 @@
 // import{ sum } from "./cals.js";
 // import { subtraction } from "./cals.js";
-import { sum,subtraction } from "./cals";
+import { sum,subtraction } from "./cals.js";
 
 console.log("amey"); 
 
